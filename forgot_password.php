@@ -7,7 +7,7 @@
 <div class="logo">
     <a href="javascript:;">
         User Panel
-    </a> 
+    </a>
 </div>
 
 <div class="content">
@@ -20,8 +20,8 @@
             <div class="form-control-focus"> </div>
         </div>
         <div class="form-actions">
-            <button type="button" id="back-btn" class="btn dark btn-outline" onclick="window.location.href = 'index.php'">Back</a></button>
-            <button type="submit" class="btn green uppercase btn-outline pull-right forget show"  id="forget-btn" name="forgot-btn">Submit</button>
+            <button type="button" id="back-btn" class="btn dark btn-outline"><a href="index.php">Back</a></button>
+            <button type="submit" class="btn green uppercase btn-outline pull-right forget show"  id="forget-btn">Submit</button>
         </div>
     </form>
 </div>

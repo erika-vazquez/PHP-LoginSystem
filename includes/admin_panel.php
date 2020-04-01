@@ -28,7 +28,7 @@
                     <li class="separator hide"> </li>
                     <li class="dropdown dropdown-user dropdown-dark">
                         <a href="javascript:;" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-close-others="true">
-                            <span class="username username-show-on-mobile"><?php echo $_SESSION["userUid"]; ?></span>
+                            <span class="username username-show-on-mobile"> Admin  (display loggedin username here)</span>
                             <i class="fa fa-angle-down"></i>
                              </a>
                         <ul class="dropdown-menu dropdown-menu-default">

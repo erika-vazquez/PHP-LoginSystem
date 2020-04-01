@@ -21,7 +21,7 @@
                             <a href="./add_user.php" class="btn green btn-outline" > Create User <i class="fa fa-plus"></i>
                             </a>
 
-                            <a href="#" class="btn green btn-outline" name='export-btn'> Export CSV <i class="fa fa-file-excel-o"></i>
+                            <a href="#" class="btn green btn-outline"> Export CSV <i class="fa fa-file-excel-o"></i>
                             </a>
 
                         </div>
